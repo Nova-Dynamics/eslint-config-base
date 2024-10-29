@@ -1,0 +1,26 @@
+{
+  "name": "@novadynamics/eslint-config-base",
+  "version": "0.0.0",
+  "description": "An ESLint configuration template for Nova Dynamics repos",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Nova-Dynamics/eslint-config-base.git"
+  },
+  "author": "Jonathan D. B. Van Schenck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nova-Dynamics/eslint-config-base/issues"
+  },
+  "homepage": "https://github.com/Nova-Dynamics/eslint-config-base",
+  "dependencies": {
+    "@stylistic/eslint-plugin-js": "^2.9.0",
+    "globals": "^15.11.0"
+  },
+  "peerDependencies": {
+    "eslint": "^9.13.0"
+  }
+}
