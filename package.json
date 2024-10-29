@@ -1,6 +1,6 @@
 {
   "name": "@novadynamics/eslint-config-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An ESLint configuration template for Nova Dynamics repos",
   "main": "index.js",
   "repository": {
